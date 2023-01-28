@@ -1,1 +1,1 @@
-# handDetection
+# Recognition-POC
